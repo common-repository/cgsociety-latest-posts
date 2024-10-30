@@ -1,0 +1,29 @@
+.cgs_bs .cgs-posts-list p {
+	border-bottom: 1px dotted #bdbdbd;
+}
+
+.cgs_bs .media h4 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	color: #777777;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.cgs_bs h5 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.cgs_bs div.media {
+	margin-bottom: 10px;
+}
+
+.cgs_bs a.btn {
+	color: #ffffff !important;
+	margin-top: 2px;
+}
+
+.cgs_bs a.powered-by {
+	font-size: 65% !important;
+	margin-top: 3px !important;
+	color: #668877 !important;
+}
